@@ -1,0 +1,1 @@
+This repository is used to store what i have learned in computer science.
