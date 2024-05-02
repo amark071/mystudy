@@ -55,3 +55,26 @@
 - 实现：在头部加入#include"IntCell.hpp。
 
 - 作用域解析运算符：在通常以.cpp/.cc/.C结尾的实现文件中，每个成员函数必须与它所在的类关联。否则，该函数就要被假设是全局范围的（从而导致大量的错误）。与类关联的语法是 ClassName::member。 符号::称作**作用域解析运算符**.
+
+#### Vector和String类
+
+- vector类：动态数组（处理成第一类对象：在[计算机科学](https://baike.baidu.com/item/计算机科学/9132?fromModule=lemma_inlink)中指可以在执行期创造并作为参数传递给其他函数或存入一个[变量](https://baike.baidu.com/item/变量/3956968?fromModule=lemma_inlink)的实体）
+  - 优点：容易改变大小
+- string类：字符串
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
